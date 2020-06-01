@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** MOVE NPC V1 MY RUNNER
-** File description:
-** move_npc_v1.c
-*/
-
 #include "runner.h"
 
 void move_rect_npc_second(runner_t *runner)
